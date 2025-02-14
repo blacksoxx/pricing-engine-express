@@ -61,6 +61,12 @@ Server should now be running at `http://localhost:3000`
 
 ---
 
+### 5️⃣ Run tests
+
+```sh
+npm run test
+```
+
 ## 📌 API Endpoints
 
 ### 🔹 Get Product Details
