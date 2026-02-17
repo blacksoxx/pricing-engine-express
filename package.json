@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.7",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "pg": "^8.13.2",
     "pricing-engine": "file:",
     "reflect-metadata": "^0.2.2",
